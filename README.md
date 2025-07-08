@@ -1,6 +1,4 @@
 
-
-````markdown
 # 🧠 Mandakini - A Python Voice Assistant
 
 Mandakini is a simple yet powerful voice assistant built using Python. It listens to your voice, understands commands, responds with speech, and performs tasks like Google search, telling time, and locating places on Google Maps.
